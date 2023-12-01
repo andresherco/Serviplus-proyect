@@ -1,0 +1,26 @@
+{
+  "usuarios": [
+    {
+      "nombre": "Andres",
+      "apellido": "Corredor",
+      "email": "andresfelipehernandezcorredor@gmail.com",
+      "password": "123456",
+      "id": 1
+    }
+  ],
+  "tikets": [
+    {
+      "email": "prueba@info.com",
+      "contenido": "dhsakljdhsjklahdkljsahkds",
+      "fecha": "2023-12-01",
+      "id": 2
+    }
+  ],
+  "respuesta": [
+    {
+      "id": "2",
+      "respuesta": "dsadsadsadasdas",
+      "fecha": "2023-12-01"
+    }
+  ]
+}
